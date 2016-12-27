@@ -17,9 +17,9 @@ Enter the Open Live Writer special tag/entity inserter.
 
 Compiling the code with Visual Studio will produce a DLL called `OLWSpecialTags.dll`. Make sure you are not running
 Open Live Writer, then copy this DLL to the `Plugins` folder off from the installation folder for Open Live Writer
-(you might need to create it if this is the first plugin you're using). Restart Window Live Writer.
+(you might need to create it if this is the first plugin you're using). Restart Open Live Writer.
 
-To convert some text, select it, go to the Insert tab, and look in the Plug-ins folder. Select Special Tag Inserter and
+To convert some text, select it, go to the Insert tab, and look in the Plug-ins group. Select Special Tag Inserter and
 the selected text will be converted.
 
 ## Conversions made
